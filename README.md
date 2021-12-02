@@ -17,3 +17,4 @@
 5. Run the application
   `npm start`
 
+![image](https://user-images.githubusercontent.com/78591227/144442840-4914bd98-073a-4d07-b45d-7ccd42c60ecd.png)
