@@ -1,0 +1,35 @@
+.bmi {
+    text-align: center;
+    width: 350px;
+    margin: 15% auto;
+}
+
+.bmi-form {
+    width: 350px;
+    height: 300px;
+    border-style: double;
+    border-color: black;
+}
+
+.bmi-form-unit {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 0 60px
+}
+
+.bmi-result-success {
+    width: 350px;
+    font-weight: 500;
+}
+
+.bmi-result-error {
+    width: 350px;
+    font-weight: 500;
+    color: red;
+}
+
+.bmi-form-note {
+    font-size: small;
+    font-style: italic;
+}

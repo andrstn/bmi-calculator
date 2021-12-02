@@ -1,0 +1,8 @@
+POST http://localhost:3001/api/bmi
+Content-Type: application/json
+
+{
+    "calculator": "metric",
+    "weight": 184,
+    "height": 70
+}
